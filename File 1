@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+
+<html> 
+    
+    <head>
+    <title>My First Blog Post</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    
+    </head>
+    
+    <body>
+        <div class="container">
+            <div class="blog-post">
+        <h1>My First Blog Post</h1> <br> <br>
+        <p class="date"><strong>April 13th,2020</strong></p>
+        
+        <p class="main-text">
+            <strong>Let's start by talking about Chris's experience:</strong> <br> Chris is an experienced operations manager who recently found a passion for writing code through his degree program and self-learning. He graduated with an <u>AA in Business and a BA in Management.</u> He decided to obtain a second bachelor of science degree in computer science.  During or after graduating with my bachelor’s in computer science – Software engineering, his goal is to obtain a position as a Frontend/Backend developer. His is looking for a company that will allow him to join their team of developer, and help the company meet its vision and mission. In return, He will offer his full commitment and will be a professional and friendly addition to your team.
+        </p> <br>
+        
+        
+        
+        <a href="html-pic.png" target="blank">HTML Log</a>
+        
+        
+        
+        <p class="main-text">
+            <strong>Chris's Cover Letter:</strong> <br>
+            He recently started working on web development utilizing HTML5, CSS3/SASS, and JavaScript. He currently have a bachelor’s in management, but he recently found a passion for code. His passion came from the fact that coding and bringing creativity will actually make a difference for a company. He plans to volunteer his skills for those who need it. He is starting slow and working on mastering each programming language instead of learning them all at once. He has roughly a year and a half left before receiving my bachelor’s in computer science. I plan to utilize my skills as a software engineer. I am currently learning Python, C++, Laravel frameworks, React, NodeJS, PHP, Java/Rest API. I want to make a career change at this point in my life and want to start at a company that has a great reputation and #1 B2B startup by LinkedIn. <br> 
+        </p>
+                 <img src="html-pic.png" alt="this-is-the-html-pic">
+                
+            </div>  
+            <div class="other-posts">
+                <div class="other">
+                The first other blog post
+                </div>
+                
+                <div class="other">
+                Yet another post
+                </div>
+                
+                <div class="other">
+                The best post ever!
+                </div>
+            
+            </div> 
+            
+            
+            <div class="clearfix">
+            
+            </div>
+            
+               <div class="author-box">
+        <img src="0.jfif" alt="This-is-pic-of-author">
+        <p id="author-text">Chris Costa</p> <br>
+                   <div class="my-profile">
+                   <a href="hhtp://www.linkedin.com/in/christopher-costa-85512a133">Link to my LinkedIn Porfile></a>
+            </div>
+                   
+               </div>
+    </div>
+        
+    
+    
+    </body>
+
+</html>
